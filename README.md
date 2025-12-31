@@ -24,25 +24,13 @@ I enjoy building **scalable web applications**, learning modern JavaScript patte
 
 ---
 
-## 📌 Featured Projects
 
-### 🎓 Student Management System
-- Role-based authentication
-- CRUD operations
-- Database-driven architecture  
-**Tech:** PHP, MySQL, HTML, CSS
 
 ### 📊 Project Management System (MERN)
 - User authentication (JWT)
 - Task & project tracking
 - RESTful API design  
 **Tech:** React, Node.js, Express, MongoDB
-
-### 🖥 Frontend Admin Dashboard
-- Responsive UI
-- Reusable components
-- Clean layout system  
-**Tech:** React, Tailwind CSS
 
 ---
 
@@ -66,17 +54,19 @@ I enjoy building **scalable web applications**, learning modern JavaScript patte
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/barento-hashum
-- 🧑‍💻 GitHub: https://github.com/BarentoHashum
+- 💼 LinkedIn: (https://www.linkedin.com/in/barento-hashum-2a67221a6)
+- 🧑‍💻 GitHub: https://github.com/Barento999
+- Telegram: https://t.me/barento11
 
 ---
 
-## 📚 What I’m Currently Learning
+## 🤖 What I’m Currently Learning
 
-- Advanced React patterns
-- Backend scalability
-- Database design & optimization
-- System design fundamentals
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Neural Networks
+- AI-based Web Applications
+
 
 ---
 
