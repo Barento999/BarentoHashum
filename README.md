@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&color1=8A2BE2&color2=FF69B4&gradient=true&lines=Hi%2C+I'm+Barento+Hashum;Software+Engineering+Student+%26+Full-Stack+Developer+(MERN);Passionate+about+building+modern+scalable+web+apps;Creating+clean+responsive+UIs+%26+exploring+AI+%26+ML" />
-</p>
-
-
+# Hi there! I’m Barento, a Full-Stack Developer passionate about frontend & AI 🌟
 
 ---
 
