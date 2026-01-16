@@ -69,7 +69,7 @@ A full-stack project management tool with task tracking, team collaboration, and
 
 ## 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Barento999/Barento999/output/github-contribution-grid-snake.svg)---
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Barento999/Barento999/output/github-contribution-grid-snake.svg)
 
 ## 📚 Currently Learning
 
