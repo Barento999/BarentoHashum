@@ -57,7 +57,8 @@ A full-stack project management tool with task tracking, team collaboration, and
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Barento999&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Barento999&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barento999&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
