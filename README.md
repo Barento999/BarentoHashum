@@ -57,8 +57,7 @@ A full-stack project management tool with task tracking, team collaboration, and
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.quine.sh/Barento999/github?theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://stats.quine.sh/Barento999/top-languages?theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Barento999&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" width="90%" />
 </p>
 
 <p align="center">
