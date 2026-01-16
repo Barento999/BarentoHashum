@@ -1,72 +1,63 @@
-# Hi there! I’m Barento, a Full-Stack Developer passionate about frontend & AI 🌟
+👨‍💻 Barento Hashum
+Software Engineering Student | Full-Stack Developer (MERN) | Frontend & AI Enthusiast
 
----
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color1=8A2BE2&color2=FF69B4&gradient=true&lines=Hi,+I'm+Barento+Hashum;Software+Engineering+Student;Full+Stack+Developer+(MERN);Frontend+Focused+Developer;Artificial+Intelligence+Enthusiast" /> </p>
+📖 About Me
+I am a dedicated Software Engineering student and Full-Stack Developer specializing in the MERN stack, passionate about crafting modern, responsive, and scalable web applications. My focus lies in creating intuitive user interfaces while ensuring code quality, performance, and maintainability.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&color1=8A2BE2&color2=FF69B4&gradient=true&lines=Hi%2C+I'm+Barento+Hashum;Software+Engineering+Student;Full+Stack+Developer+(MERN);Frontend+Focused+Developer;Artificial+Intelligence+Enthusiast" />
-</p>
+🔭 Currently working on MERN-based projects with an emphasis on frontend architecture
 
+🌱 Actively learning Artificial Intelligence, Machine Learning, and AI-integrated web solutions
 
+🎯 Committed to clean code, performance optimization, and user-centered design
 
+💡 Interested in UI/UX, system design, and cutting-edge web technologies
 
+🛠️ Tech Stack
+Frontend
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
+Backend & Database
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 
----
+Tools & Platforms
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
-## 👨‍💻 About Me
+🚀 Featured Projects
+📊 Project Management System (MERN)
+A full-stack project management tool with task tracking, team collaboration, and real-time updates.
 
-I am a **Software Engineering student** and **Full-Stack Developer (MERN)** passionate about building **modern, responsive, and scalable web applications**.  
-I love creating **clean, user-friendly interfaces** and writing **efficient, maintainable code**.  
+Features: JWT authentication, RESTful API, task/project management, responsive UI
 
-🔭 Currently working on **MERN stack projects** and exploring advanced frontend architectures  
-🌱 Learning **Artificial Intelligence, Machine Learning, and AI-powered web applications**  
-🎯 Focused on **performance, usability, and clean code practices**  
-💡 Interested in **UI/UX design, frontend architecture, and innovative web solutions**
+Tech Stack: React, Node.js, Express, MongoDB, Tailwind CSS
 
+More projects available on my GitHub Repositories
 
----
+📈 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Barento999&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barento999&layout=compact&theme=radical" alt="Top Languages" width="45%" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barento999&theme=radical" alt="GitHub Streak" /> </p>
+🐍 Contribution Activity
+https://github.com/BarentoHashum/BarentoHashum/blob/output/github-contribution-grid-snake.svg
 
-## 🛠 Tech Stack
+📚 Currently Learning
+Artificial Intelligence & Machine Learning fundamentals
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,vscode" />
-</p>
+Neural Networks & Deep Learning
 
----
+AI-powered web application development
 
+Advanced frontend patterns & state management
 
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/barento-hashum-2a67221a6"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Barento999"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://t.me/barento11"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+💭 Philosophy
+“Code is not just about making things work — it's about crafting solutions that are clean, scalable, and maintainable, with the user experience at the forefront.”
 
-### 📊 Project Management System (MERN)
-- User authentication (JWT)
-- Task & project tracking
-- RESTful API design  
-**Tech:** React, Node.js, Express, MongoDB
-
-
----
-
-## 🐍 Contribution Activity
-
-![GitHub Contribution Snake](https://github.com/BarentoHashum/BarentoHashum/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: (https://www.linkedin.com/in/barento-hashum-2a67221a6)
-- 🧑‍💻 GitHub: https://github.com/Barento999
-- Telegram: https://t.me/barento11
-
----
-
-## 🤖 What I’m Currently Learning
-
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Neural Networks
-- AI-based Web Applications
-
-
----
-
-> *“Code is not just about making things work — it’s about making them clean, scalable, and maintainable.”*
+<p align="center"> <i>Thank you for visiting my profile! Feel free to explore my repositories or get in touch.</i> </p>
