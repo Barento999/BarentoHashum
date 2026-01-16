@@ -69,37 +69,7 @@ A full-stack project management tool with task tracking, team collaboration, and
 
 ## 🐍 Contribution Activity
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:      # Allows manual trigger
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Barento999
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Barento999/Barento999/main/github-contribution-grid-snake.svg)
 ---
 
 ## 📚 Currently Learning
